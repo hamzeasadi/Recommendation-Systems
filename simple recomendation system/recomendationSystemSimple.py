@@ -1,5 +1,4 @@
 import pandas as pd
-
 def weighted_rating(x, m=m, c=C):
     v = x['vote_count']
     R = x['vote_average']
